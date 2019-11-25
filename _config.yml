@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: RPM Sphere
+description: 2700+ source-packages for Fedora 30
+logo: rpmsphere.png
+show_downloads: false

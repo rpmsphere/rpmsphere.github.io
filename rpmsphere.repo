@@ -1,0 +1,35 @@
+[rpmsphere]
+name=RPM Sphere - Basearch
+baseurl=https://github.com/rpmsphere/$basearch/raw/master/
+skip_if_unavailable=True
+repo_gpgcheck=0
+gpgcheck=0
+sslverify=False
+enabled=1
+
+[rpmsphere-noarch]
+name=RPM Sphere - Noarch
+baseurl=https://github.com/rpmsphere/noarch/raw/master/
+skip_if_unavailable=True
+repo_gpgcheck=0
+gpgcheck=0
+sslverify=False
+enabled=1
+
+[rpmsphere-source]
+name=RPM Sphere - Source
+baseurl=https://github.com/rpmsphere/source/raw/master/
+skip_if_unavailable=True
+repo_gpgcheck=0
+gpgcheck=0
+sslverify=False
+enabled=0
+
+[rpmsphere-caution]
+name=RPM Sphere - Caution
+baseurl=https://github.com/rpmsphere/caution/raw/master/
+skip_if_unavailable=True
+repo_gpgcheck=0
+gpgcheck=0
+sslverify=False
+enabled=0
