@@ -13,7 +13,7 @@ of application or system.
 ### Install
 
 Recommended is to import repositories from [RPM Fusion](https://rpmfusion.org/Configuration) first, then install
-[rpmsphere-release](https://github.com/rpmsphere/noarch/raw/master/r/rpmsphere-release-34-1.noarch.rpm)
+[rpmsphere-release](https://github.com/rpmsphere/noarch/raw/master/r/rpmsphere-release-34-2.noarch.rpm)
 package to add this repository.
 
 ### Configuration
